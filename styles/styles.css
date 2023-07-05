@@ -242,7 +242,9 @@ main .section.highlight {
   background-color: var(--highlight-background-color);
 }
 /* dark theme */
-.dark{
+.dark, .dark a.button.secondary, button.secondary, .dark header .nav-wrapper, .dark header nav .nav-hamburger button,
+.dark .cards > ul > li{
 color: white;
 background: black;
 }
+
