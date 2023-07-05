@@ -241,3 +241,8 @@ main .section {
 main .section.highlight {
   background-color: var(--highlight-background-color);
 }
+/* dark theme */
+.dark{
+color: white;
+background: black;
+}
